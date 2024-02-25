@@ -1,2 +1,2 @@
 ## JOGO EM FUNCIONAMENTO
-https://github.com/Crowlevy/JOGO-DA-COBRINHA.git
+https://crowlevy.github.io/JOGO-DA-COBRINHA/
